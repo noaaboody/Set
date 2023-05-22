@@ -1,0 +1,124 @@
+[19:21:56.353] [INFO   ] thread main starting.
+[19:21:56.360] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[19:21:56.361] [SEVERE ] configuration file was loaded from resources directory.
+[19:21:56.833] [INFO   ] thread dealer starting.
+[19:21:56.836] [INFO   ] thread player number 0 starting.
+[19:21:56.838] [INFO   ] thread player number 1 starting.
+[19:21:56.842] [INFO   ] thread computer-0 starting.
+[19:21:56.842] [INFO   ] thread computer-1 starting.
+[19:21:56.842] [SEVERE ] player 1 placing token on slot 4
+[19:21:56.845] [INFO   ] Thread dealer found empty slot 0
+[19:21:56.846] [INFO   ] actions size of computer-0 is 1
+[19:21:56.847] [SEVERE ] player 1 placing token on slot 6
+[19:21:56.843] [SEVERE ] player 2 placing token on slot 11
+[19:21:56.847] [INFO   ] actions size of computer-0 is 2
+[19:21:56.850] [INFO   ] actions size of computer-1 is 1
+[19:21:56.851] [SEVERE ] player 1 placing token on slot 10
+[19:21:56.853] [INFO   ] actions size of computer-0 is 3
+[19:21:56.852] [SEVERE ] player 2 placing token on slot 0
+[19:21:56.854] [INFO   ] actions size of computer-1 is 2
+[19:21:56.855] [SEVERE ] removing player 2 token from slot 11
+[19:21:56.918] [SEVERE ] player 2 placing token on slot 9
+[19:21:56.918] [INFO   ] actions size of computer-1 is 2
+[19:21:56.919] [SEVERE ] player 2 placing token on slot 2
+[19:21:56.919] [INFO   ] actions size of computer-1 is 3
+[19:21:56.946] [SEVERE ] placing card 15 in slot 0
+[19:21:56.947] [INFO   ] Thread dealer found empty slot 1
+[19:21:57.047] [SEVERE ] placing card 29 in slot 1
+[19:21:57.048] [INFO   ] Thread dealer found empty slot 2
+[19:21:57.149] [SEVERE ] placing card 39 in slot 2
+[19:21:57.150] [INFO   ] Thread dealer found empty slot 3
+[19:21:57.251] [SEVERE ] placing card 31 in slot 3
+[19:21:57.252] [INFO   ] Thread dealer found empty slot 4
+[19:21:57.352] [SEVERE ] placing card 21 in slot 4
+[19:21:57.353] [INFO   ] Thread dealer found empty slot 5
+[19:21:57.454] [SEVERE ] placing card 36 in slot 5
+[19:21:57.455] [INFO   ] Thread dealer found empty slot 6
+[19:21:57.555] [SEVERE ] placing card 72 in slot 6
+[19:21:57.556] [INFO   ] Thread dealer found empty slot 7
+[19:21:57.657] [SEVERE ] placing card 45 in slot 7
+[19:21:57.658] [INFO   ] Thread dealer found empty slot 8
+[19:21:57.759] [SEVERE ] placing card 19 in slot 8
+[19:21:57.760] [INFO   ] Thread dealer found empty slot 9
+[19:21:57.861] [SEVERE ] placing card 26 in slot 9
+[19:21:57.862] [INFO   ] Thread dealer found empty slot 10
+[19:21:57.920] [INFO   ] tread computer-1 set added
+[19:21:57.920] [INFO   ] num of sets to check 1
+[19:21:57.964] [SEVERE ] placing card 42 in slot 10
+[19:21:57.964] [INFO   ] Thread dealer found empty slot 11
+[19:21:58.065] [SEVERE ] placing card 44 in slot 11
+[19:21:58.166] [SEVERE ] updating countdown to 15899
+[19:21:58.167] [INFO   ] Thread dealer checking set.
+[19:21:58.172] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:21:58.173] [INFO   ] Thread dealer change state to -1
+[19:21:58.174] [INFO   ] Thread dealer change setCheck to 1
+[19:21:58.175] [SEVERE ] setting player 2 freeze to 500
+[19:21:58.274] [SEVERE ] updating countdown to 15791
+[19:21:58.376] [SEVERE ] updating countdown to 15689
+[19:21:58.477] [SEVERE ] updating countdown to 15588
+[19:21:58.578] [SEVERE ] updating countdown to 15487
+[19:21:58.676] [SEVERE ] removing player 2 token from slot 0
+[19:21:58.677] [SEVERE ] removing player 2 token from slot 9
+[19:21:58.677] [SEVERE ] removing player 2 token from slot 2
+[19:21:58.679] [SEVERE ] setting player 2 freeze to 0
+[19:21:58.679] [SEVERE ] updating countdown to 15386
+[19:21:58.781] [SEVERE ] updating countdown to 15284
+[19:21:58.854] [INFO   ] tread computer-0 set added
+[19:21:58.854] [INFO   ] num of sets to check 1
+[19:21:58.881] [SEVERE ] updating countdown to 15184
+[19:21:58.881] [INFO   ] Thread dealer checking set.
+[19:21:58.882] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:21:58.882] [INFO   ] Thread dealer change state to -1
+[19:21:58.882] [INFO   ] Thread dealer change setCheck to 1
+[19:21:58.883] [SEVERE ] setting player 1 freeze to 500
+[19:21:58.983] [SEVERE ] updating countdown to 15082
+[19:21:59.084] [SEVERE ] updating countdown to 14981
+[19:21:59.184] [SEVERE ] updating countdown to 14881
+[19:21:59.284] [SEVERE ] updating countdown to 14781
+[19:21:59.384] [SEVERE ] removing player 1 token from slot 4
+[19:21:59.384] [SEVERE ] removing player 1 token from slot 6
+[19:21:59.385] [SEVERE ] updating countdown to 14680
+[19:21:59.385] [SEVERE ] removing player 1 token from slot 10
+[19:21:59.385] [SEVERE ] setting player 1 freeze to 0
+[19:21:59.503] [SEVERE ] updating countdown to 14562
+[19:21:59.603] [SEVERE ] updating countdown to 14462
+[19:21:59.704] [SEVERE ] updating countdown to 14361
+[19:21:59.804] [SEVERE ] updating countdown to 14261
+[19:21:59.905] [SEVERE ] updating countdown to 14160
+[19:22:00.005] [SEVERE ] updating countdown to 14060
+[19:22:00.105] [SEVERE ] updating countdown to 13960
+[19:22:00.206] [SEVERE ] updating countdown to 13859
+[19:22:00.306] [SEVERE ] updating countdown to 13759
+[19:22:00.406] [SEVERE ] updating countdown to 13659
+[19:22:00.507] [SEVERE ] updating countdown to 13558
+[19:22:00.607] [SEVERE ] updating countdown to 13458
+[19:22:00.707] [SEVERE ] updating countdown to 13358
+[19:22:00.807] [SEVERE ] updating countdown to 13258
+[19:22:00.908] [SEVERE ] updating countdown to 13157
+[19:22:01.008] [SEVERE ] updating countdown to 13057
+[19:22:01.108] [SEVERE ] updating countdown to 12957
+[19:22:01.209] [SEVERE ] updating countdown to 12856
+[19:22:01.309] [SEVERE ] updating countdown to 12756
+[19:22:01.409] [SEVERE ] updating countdown to 12656
+[19:22:01.510] [SEVERE ] updating countdown to 12555
+[19:22:01.610] [SEVERE ] updating countdown to 12455
+[19:22:01.710] [SEVERE ] updating countdown to 12355
+[19:22:01.810] [SEVERE ] updating countdown to 12255
+[19:22:01.911] [SEVERE ] updating countdown to 12154
+[19:22:02.011] [SEVERE ] updating countdown to 12054
+[19:22:02.111] [SEVERE ] updating countdown to 11954
+[19:22:02.212] [SEVERE ] updating countdown to 11853
+[19:22:02.312] [SEVERE ] updating countdown to 11753
+[19:22:02.412] [SEVERE ] updating countdown to 11653
+[19:22:02.513] [SEVERE ] updating countdown to 11552
+[19:22:02.613] [SEVERE ] updating countdown to 11452
+[19:22:02.713] [SEVERE ] updating countdown to 11352
+[19:22:02.814] [SEVERE ] updating countdown to 11252
+[19:22:02.914] [SEVERE ] updating countdown to 11151
+[19:22:03.014] [SEVERE ] updating countdown to 11051
+[19:22:03.114] [SEVERE ] updating countdown to 10951
+[19:22:03.215] [SEVERE ] updating countdown to 10850
+[19:22:03.315] [SEVERE ] updating countdown to 10750
+[19:22:03.415] [SEVERE ] updating countdown to 10650
+[19:22:03.516] [SEVERE ] updating countdown to 10549
+[19:22:03.616] [SEVERE ] updating countdown to 10449

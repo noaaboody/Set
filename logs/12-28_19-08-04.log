@@ -1,0 +1,148 @@
+[19:08:04.891] [INFO   ] thread main starting.
+[19:08:04.916] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[19:08:04.940] [SEVERE ] configuration file was loaded from resources directory.
+[19:08:06.947] [INFO   ] thread dealer starting.
+[19:08:06.948] [INFO   ] thread player number 0 starting.
+[19:08:06.948] [INFO   ] thread player number 1 starting.
+[19:08:06.952] [INFO   ] Thread dealer found empty slot 0
+[19:08:07.053] [SEVERE ] placing card 2 in slot 0
+[19:08:07.054] [INFO   ] Thread dealer found empty slot 1
+[19:08:07.155] [SEVERE ] placing card 19 in slot 1
+[19:08:07.155] [INFO   ] Thread dealer found empty slot 2
+[19:08:07.255] [SEVERE ] placing card 76 in slot 2
+[19:08:07.256] [INFO   ] Thread dealer found empty slot 3
+[19:08:07.356] [SEVERE ] placing card 67 in slot 3
+[19:08:07.357] [INFO   ] Thread dealer found empty slot 4
+[19:08:07.457] [SEVERE ] placing card 14 in slot 4
+[19:08:07.457] [INFO   ] Thread dealer found empty slot 5
+[19:08:07.457] [INFO   ] Thread dealer found empty slot 5
+[19:08:07.457] [INFO   ] Thread dealer found empty slot 5
+[19:08:07.558] [SEVERE ] placing card 40 in slot 5
+[19:08:07.558] [INFO   ] Thread dealer found empty slot 6
+[19:08:07.659] [SEVERE ] placing card 18 in slot 6
+[19:08:07.659] [INFO   ] Thread dealer found empty slot 7
+[19:08:07.759] [SEVERE ] placing card 10 in slot 7
+[19:08:07.760] [INFO   ] Thread dealer found empty slot 8
+[19:08:07.860] [SEVERE ] placing card 73 in slot 8
+[19:08:07.861] [INFO   ] Thread dealer found empty slot 9
+[19:08:07.961] [SEVERE ] placing card 28 in slot 9
+[19:08:07.961] [INFO   ] Thread dealer found empty slot 10
+[19:08:07.962] [INFO   ] Thread dealer found empty slot 10
+[19:08:08.063] [SEVERE ] placing card 34 in slot 10
+[19:08:08.063] [INFO   ] Thread dealer found empty slot 11
+[19:08:08.164] [SEVERE ] placing card 75 in slot 11
+[19:08:08.265] [SEVERE ] updating countdown to 60900
+[19:08:08.366] [SEVERE ] updating countdown to 60798
+[19:08:08.466] [SEVERE ] updating countdown to 60698
+[19:08:08.567] [SEVERE ] updating countdown to 60597
+[19:08:08.667] [SEVERE ] updating countdown to 60497
+[19:08:08.767] [SEVERE ] updating countdown to 60397
+[19:08:08.868] [SEVERE ] updating countdown to 60296
+[19:08:08.968] [SEVERE ] updating countdown to 60196
+[19:08:09.068] [SEVERE ] updating countdown to 60096
+[19:08:09.169] [SEVERE ] updating countdown to 59995
+[19:08:09.269] [SEVERE ] updating countdown to 59895
+[19:08:09.369] [SEVERE ] updating countdown to 59795
+[19:08:09.470] [SEVERE ] updating countdown to 59694
+[19:08:09.570] [SEVERE ] updating countdown to 59594
+[19:08:09.670] [SEVERE ] updating countdown to 59494
+[19:08:09.771] [SEVERE ] updating countdown to 59393
+[19:08:09.871] [SEVERE ] updating countdown to 59293
+[19:08:09.972] [SEVERE ] updating countdown to 59192
+[19:08:10.072] [SEVERE ] updating countdown to 59092
+[19:08:10.172] [SEVERE ] updating countdown to 58992
+[19:08:10.273] [SEVERE ] updating countdown to 58891
+[19:08:10.373] [SEVERE ] updating countdown to 58791
+[19:08:10.411] [SEVERE ] key 90 was pressed by player 1
+[19:08:10.411] [SEVERE ] player 1 placing token on slot 8
+[19:08:10.412] [INFO   ] actions size of AWT-EventQueue-0 is 1
+[19:08:10.473] [SEVERE ] updating countdown to 58691
+[19:08:10.574] [SEVERE ] updating countdown to 58590
+[19:08:10.577] [SEVERE ] key 65 was pressed by player 1
+[19:08:10.577] [SEVERE ] player 1 placing token on slot 4
+[19:08:10.577] [INFO   ] actions size of AWT-EventQueue-0 is 2
+[19:08:10.674] [SEVERE ] updating countdown to 58490
+[19:08:10.774] [SEVERE ] updating countdown to 58390
+[19:08:10.817] [SEVERE ] key 81 was pressed by player 1
+[19:08:10.817] [SEVERE ] player 1 placing token on slot 0
+[19:08:10.818] [INFO   ] actions size of AWT-EventQueue-0 is 3
+[19:08:10.818] [INFO   ] tread AWT-EventQueue-0 set added
+[19:08:10.818] [INFO   ] num of sets to check 1
+[19:08:10.875] [SEVERE ] updating countdown to 58289
+[19:08:10.875] [INFO   ] Thread dealer checking set.
+[19:08:10.876] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:08:10.876] [INFO   ] Thread dealer change state to -1
+[19:08:10.877] [INFO   ] Thread dealer change setCheck to 1
+[19:08:10.877] [SEVERE ] setting player 1 freeze to 3000
+[19:08:10.977] [SEVERE ] updating countdown to 58187
+[19:08:11.078] [SEVERE ] updating countdown to 58086
+[19:08:11.178] [SEVERE ] updating countdown to 57986
+[19:08:11.278] [SEVERE ] updating countdown to 57886
+[19:08:11.379] [SEVERE ] updating countdown to 57785
+[19:08:11.479] [SEVERE ] updating countdown to 57685
+[19:08:11.580] [SEVERE ] updating countdown to 57584
+[19:08:11.680] [SEVERE ] updating countdown to 57484
+[19:08:11.780] [SEVERE ] updating countdown to 57384
+[19:08:11.881] [SEVERE ] updating countdown to 57283
+[19:08:11.981] [SEVERE ] updating countdown to 57183
+[19:08:12.082] [SEVERE ] updating countdown to 57082
+[19:08:12.182] [SEVERE ] updating countdown to 56982
+[19:08:12.282] [SEVERE ] updating countdown to 56882
+[19:08:12.382] [SEVERE ] updating countdown to 56782
+[19:08:12.483] [SEVERE ] updating countdown to 56681
+[19:08:12.583] [SEVERE ] updating countdown to 56581
+[19:08:12.683] [SEVERE ] updating countdown to 56481
+[19:08:12.784] [SEVERE ] updating countdown to 56380
+[19:08:12.884] [SEVERE ] updating countdown to 56280
+[19:08:12.984] [SEVERE ] updating countdown to 56180
+[19:08:13.085] [SEVERE ] updating countdown to 56079
+[19:08:13.185] [SEVERE ] updating countdown to 55979
+[19:08:13.285] [SEVERE ] updating countdown to 55879
+[19:08:13.386] [SEVERE ] updating countdown to 55778
+[19:08:13.486] [SEVERE ] updating countdown to 55678
+[19:08:13.586] [SEVERE ] updating countdown to 55578
+[19:08:13.687] [SEVERE ] updating countdown to 55477
+[19:08:13.787] [SEVERE ] updating countdown to 55377
+[19:08:13.878] [SEVERE ] removing player 1 token from slot 8
+[19:08:13.879] [SEVERE ] removing player 1 token from slot 4
+[19:08:13.880] [SEVERE ] removing player 1 token from slot 0
+[19:08:13.880] [SEVERE ] setting player 1 freeze to 0
+[19:08:13.887] [SEVERE ] updating countdown to 55277
+[19:08:13.988] [SEVERE ] updating countdown to 55176
+[19:08:14.088] [SEVERE ] updating countdown to 55076
+[19:08:14.189] [SEVERE ] updating countdown to 54975
+[19:08:14.289] [SEVERE ] updating countdown to 54875
+[19:08:14.389] [SEVERE ] updating countdown to 54775
+[19:08:14.490] [SEVERE ] updating countdown to 54674
+[19:08:14.590] [SEVERE ] updating countdown to 54574
+[19:08:14.690] [SEVERE ] updating countdown to 54474
+[19:08:14.791] [SEVERE ] updating countdown to 54373
+[19:08:14.891] [SEVERE ] updating countdown to 54273
+[19:08:14.991] [SEVERE ] updating countdown to 54173
+[19:08:15.091] [SEVERE ] updating countdown to 54073
+[19:08:15.192] [SEVERE ] updating countdown to 53972
+[19:08:15.292] [SEVERE ] updating countdown to 53872
+[19:08:15.393] [SEVERE ] updating countdown to 53771
+[19:08:15.493] [SEVERE ] updating countdown to 53671
+[19:08:15.538] [SEVERE ] exit button pressed
+[19:08:15.538] [INFO   ] Thread player number 0 terminated.
+[19:08:15.538] [INFO   ] Thread player number 1 terminated.
+[19:08:15.593] [SEVERE ] updating countdown to 53571
+[19:08:15.594] [SEVERE ] updating countdown to 0
+[19:08:15.697] [SEVERE ] removing card from slot 0
+[19:08:15.798] [SEVERE ] removing card from slot 1
+[19:08:15.899] [SEVERE ] removing card from slot 2
+[19:08:15.999] [SEVERE ] removing card from slot 3
+[19:08:16.100] [SEVERE ] removing card from slot 4
+[19:08:16.200] [SEVERE ] removing card from slot 5
+[19:08:16.301] [SEVERE ] removing card from slot 6
+[19:08:16.401] [SEVERE ] removing card from slot 7
+[19:08:16.502] [SEVERE ] removing card from slot 8
+[19:08:16.603] [SEVERE ] removing card from slot 9
+[19:08:16.704] [SEVERE ] removing card from slot 10
+[19:08:16.805] [SEVERE ] removing card from slot 11
+[19:08:16.807] [SEVERE ] announcing winner(s): player 1, player 2
+[19:08:16.810] [INFO   ] thread dealer terminated.
+[19:08:16.810] [INFO   ] thread dealer terminated.
+[19:08:16.811] [SEVERE ] thanks for playing... it was fun!
+[19:08:16.811] [INFO   ] thread main terminated.

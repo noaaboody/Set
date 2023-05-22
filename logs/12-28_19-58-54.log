@@ -1,0 +1,1192 @@
+[19:58:54.537] [INFO   ] thread main starting.
+[19:58:54.542] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[19:58:54.544] [SEVERE ] configuration file was loaded from resources directory.
+[19:58:55.096] [INFO   ] thread dealer starting.
+[19:58:55.102] [INFO   ] thread player number 0 starting.
+[19:58:55.106] [INFO   ] thread player number 1 starting.
+[19:58:55.106] [INFO   ] thread player number 2 starting.
+[19:58:55.107] [INFO   ] thread player number 3 starting.
+[19:58:55.108] [INFO   ] thread computer-2 starting.
+[19:58:55.119] [INFO   ] thread computer-1 starting.
+[19:58:55.111] [INFO   ] thread computer-0 starting.
+[19:58:55.126] [INFO   ] Thread dealer found empty slot 0
+[19:58:55.119] [INFO   ] thread computer-3 starting.
+[19:58:55.136] [SEVERE ] placing card 56 in slot 0
+[19:58:55.137] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.141] [INFO   ] actions size of computer-0 is 1
+[19:58:55.141] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.136] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.145] [INFO   ] actions size of computer-1 is 1
+[19:58:55.145] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.146] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.147] [INFO   ] actions size of computer-1 is 1
+[19:58:55.147] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.148] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.136] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.136] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.150] [INFO   ] actions size of computer-3 is 1
+[19:58:55.150] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.151] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.151] [INFO   ] actions size of computer-3 is 1
+[19:58:55.152] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.152] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.153] [INFO   ] actions size of computer-3 is 1
+[19:58:55.153] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.154] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.154] [INFO   ] actions size of computer-3 is 1
+[19:58:55.155] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.155] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.156] [INFO   ] actions size of computer-3 is 1
+[19:58:55.156] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.156] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.157] [INFO   ] actions size of computer-3 is 1
+[19:58:55.157] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.158] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.159] [INFO   ] actions size of computer-3 is 1
+[19:58:55.159] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.160] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.160] [INFO   ] actions size of computer-3 is 1
+[19:58:55.161] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.161] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.162] [INFO   ] actions size of computer-3 is 1
+[19:58:55.162] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.163] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.164] [INFO   ] actions size of computer-3 is 1
+[19:58:55.165] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.165] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.166] [INFO   ] actions size of computer-3 is 1
+[19:58:55.166] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.150] [INFO   ] actions size of computer-2 is 1
+[19:58:55.169] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.149] [INFO   ] actions size of computer-1 is 1
+[19:58:55.171] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.171] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.171] [INFO   ] actions size of computer-1 is 1
+[19:58:55.171] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.171] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.171] [INFO   ] actions size of computer-1 is 1
+[19:58:55.172] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.172] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.172] [INFO   ] actions size of computer-1 is 1
+[19:58:55.172] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.172] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.172] [INFO   ] actions size of computer-1 is 1
+[19:58:55.172] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.172] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.173] [INFO   ] actions size of computer-1 is 1
+[19:58:55.173] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.173] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.173] [INFO   ] actions size of computer-1 is 1
+[19:58:55.173] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.173] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.173] [INFO   ] actions size of computer-1 is 1
+[19:58:55.173] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.173] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.174] [INFO   ] actions size of computer-1 is 1
+[19:58:55.174] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.174] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.174] [INFO   ] actions size of computer-1 is 1
+[19:58:55.174] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.174] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.174] [INFO   ] actions size of computer-1 is 1
+[19:58:55.175] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.175] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.175] [INFO   ] actions size of computer-1 is 1
+[19:58:55.145] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.143] [INFO   ] Thread dealer found empty slot 1
+[19:58:55.178] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.178] [INFO   ] actions size of computer-0 is 1
+[19:58:55.182] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.182] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.182] [INFO   ] actions size of computer-0 is 1
+[19:58:55.182] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.182] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.183] [INFO   ] actions size of computer-0 is 1
+[19:58:55.183] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.183] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.183] [INFO   ] actions size of computer-0 is 1
+[19:58:55.183] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.183] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.183] [INFO   ] actions size of computer-0 is 1
+[19:58:55.184] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.184] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.184] [INFO   ] actions size of computer-0 is 1
+[19:58:55.184] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.184] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.184] [INFO   ] actions size of computer-0 is 1
+[19:58:55.184] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.185] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.185] [INFO   ] actions size of computer-0 is 1
+[19:58:55.185] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.185] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.185] [INFO   ] actions size of computer-0 is 1
+[19:58:55.185] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.186] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.186] [INFO   ] actions size of computer-0 is 1
+[19:58:55.186] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.186] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.186] [INFO   ] actions size of computer-0 is 1
+[19:58:55.186] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.186] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.186] [INFO   ] actions size of computer-0 is 1
+[19:58:55.186] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.187] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.187] [INFO   ] actions size of computer-0 is 1
+[19:58:55.187] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.170] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.191] [INFO   ] actions size of computer-2 is 1
+[19:58:55.191] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.191] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.191] [INFO   ] actions size of computer-2 is 1
+[19:58:55.191] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.192] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.192] [INFO   ] actions size of computer-2 is 1
+[19:58:55.192] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.192] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.192] [INFO   ] actions size of computer-2 is 1
+[19:58:55.192] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.192] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.192] [INFO   ] actions size of computer-2 is 1
+[19:58:55.193] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.193] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.193] [INFO   ] actions size of computer-2 is 1
+[19:58:55.193] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.193] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.193] [INFO   ] actions size of computer-2 is 1
+[19:58:55.193] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.168] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.194] [INFO   ] actions size of computer-3 is 1
+[19:58:55.194] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.195] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.195] [INFO   ] actions size of computer-3 is 1
+[19:58:55.195] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.195] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.195] [INFO   ] actions size of computer-3 is 1
+[19:58:55.195] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.195] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.195] [INFO   ] actions size of computer-3 is 1
+[19:58:55.195] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.196] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.196] [INFO   ] actions size of computer-3 is 1
+[19:58:55.196] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.196] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.196] [INFO   ] actions size of computer-3 is 1
+[19:58:55.196] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.196] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.196] [INFO   ] actions size of computer-3 is 1
+[19:58:55.196] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.197] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.197] [INFO   ] actions size of computer-3 is 1
+[19:58:55.197] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.194] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.197] [INFO   ] actions size of computer-2 is 1
+[19:58:55.198] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.198] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.198] [INFO   ] actions size of computer-2 is 1
+[19:58:55.198] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.198] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.198] [INFO   ] actions size of computer-2 is 1
+[19:58:55.198] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.198] [INFO   ] actions size of computer-2 is 2
+[19:58:55.198] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.199] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.199] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.199] [INFO   ] actions size of computer-2 is 1
+[19:58:55.199] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.199] [INFO   ] actions size of computer-2 is 2
+[19:58:55.199] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.199] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.199] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.199] [INFO   ] actions size of computer-2 is 1
+[19:58:55.200] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.200] [INFO   ] actions size of computer-2 is 2
+[19:58:55.200] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.200] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.200] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.200] [INFO   ] actions size of computer-2 is 1
+[19:58:55.200] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.200] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.201] [INFO   ] actions size of computer-2 is 1
+[19:58:55.201] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.201] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.201] [INFO   ] actions size of computer-2 is 1
+[19:58:55.201] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.201] [INFO   ] actions size of computer-2 is 2
+[19:58:55.201] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.201] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.202] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.202] [INFO   ] actions size of computer-2 is 1
+[19:58:55.202] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.202] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.191] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.208] [INFO   ] actions size of computer-0 is 1
+[19:58:55.208] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.208] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.208] [INFO   ] actions size of computer-0 is 1
+[19:58:55.208] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.208] [INFO   ] actions size of computer-0 is 2
+[19:58:55.208] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.208] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.208] [INFO   ] actions size of computer-0 is 2
+[19:58:55.209] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.209] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.209] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.209] [INFO   ] actions size of computer-0 is 1
+[19:58:55.209] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.209] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.209] [INFO   ] actions size of computer-0 is 1
+[19:58:55.209] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.209] [INFO   ] actions size of computer-0 is 2
+[19:58:55.209] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.209] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.210] [INFO   ] actions size of computer-0 is 2
+[19:58:55.210] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.210] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.210] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.210] [INFO   ] actions size of computer-0 is 1
+[19:58:55.210] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.210] [INFO   ] actions size of computer-0 is 2
+[19:58:55.210] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.210] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.210] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.211] [INFO   ] actions size of computer-0 is 1
+[19:58:55.211] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.211] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.211] [INFO   ] actions size of computer-0 is 1
+[19:58:55.190] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.223] [INFO   ] actions size of computer-1 is 1
+[19:58:55.223] [SEVERE ] player 2 placing token on slot 1
+[19:58:55.224] [INFO   ] actions size of computer-1 is 2
+[19:58:55.224] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.224] [SEVERE ] removing player 2 token from slot 1
+[19:58:55.224] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.224] [INFO   ] actions size of computer-1 is 1
+[19:58:55.225] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.225] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.226] [INFO   ] actions size of computer-1 is 1
+[19:58:55.230] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.222] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.202] [INFO   ] actions size of computer-2 is 1
+[19:58:55.235] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.236] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.236] [INFO   ] actions size of computer-2 is 1
+[19:58:55.236] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.237] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.237] [INFO   ] actions size of computer-2 is 1
+[19:58:55.237] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.237] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.237] [INFO   ] actions size of computer-2 is 1
+[19:58:55.237] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.237] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.238] [INFO   ] actions size of computer-2 is 1
+[19:58:55.238] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.238] [INFO   ] actions size of computer-2 is 2
+[19:58:55.238] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.238] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.238] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.238] [INFO   ] actions size of computer-2 is 1
+[19:58:55.238] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.238] [INFO   ] actions size of computer-2 is 2
+[19:58:55.238] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.238] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.239] [INFO   ] actions size of computer-2 is 2
+[19:58:55.239] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.239] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.239] [INFO   ] actions size of computer-2 is 2
+[19:58:55.198] [SEVERE ] placing card 66 in slot 1
+[19:58:55.197] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.241] [INFO   ] actions size of computer-3 is 1
+[19:58:55.241] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.242] [INFO   ] actions size of computer-3 is 2
+[19:58:55.242] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.242] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.242] [INFO   ] actions size of computer-3 is 2
+[19:58:55.242] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.242] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.242] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.243] [INFO   ] actions size of computer-3 is 1
+[19:58:55.243] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.244] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.244] [INFO   ] actions size of computer-3 is 1
+[19:58:55.244] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.244] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.244] [INFO   ] actions size of computer-3 is 1
+[19:58:55.244] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.244] [INFO   ] actions size of computer-3 is 2
+[19:58:55.244] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.244] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.244] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.244] [INFO   ] actions size of computer-3 is 1
+[19:58:55.245] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.245] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.245] [INFO   ] actions size of computer-3 is 1
+[19:58:55.245] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.245] [INFO   ] actions size of computer-3 is 2
+[19:58:55.245] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.245] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.245] [INFO   ] actions size of computer-3 is 2
+[19:58:55.245] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.245] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.246] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.246] [INFO   ] actions size of computer-3 is 1
+[19:58:55.246] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.246] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.246] [INFO   ] actions size of computer-3 is 1
+[19:58:55.246] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.246] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.246] [INFO   ] actions size of computer-3 is 1
+[19:58:55.246] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.246] [INFO   ] actions size of computer-3 is 2
+[19:58:55.246] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.247] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.247] [INFO   ] actions size of computer-3 is 2
+[19:58:55.247] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.248] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.248] [INFO   ] actions size of computer-3 is 2
+[19:58:55.248] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.249] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.249] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.249] [INFO   ] actions size of computer-3 is 1
+[19:58:55.249] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.249] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.249] [INFO   ] actions size of computer-3 is 1
+[19:58:55.249] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.249] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.249] [INFO   ] actions size of computer-3 is 1
+[19:58:55.249] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.249] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.249] [INFO   ] actions size of computer-3 is 1
+[19:58:55.250] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.250] [INFO   ] actions size of computer-3 is 2
+[19:58:55.250] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.250] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.250] [INFO   ] actions size of computer-3 is 2
+[19:58:55.250] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.250] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.250] [INFO   ] actions size of computer-3 is 2
+[19:58:55.250] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.250] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.250] [INFO   ] actions size of computer-3 is 2
+[19:58:55.250] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.251] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.251] [INFO   ] actions size of computer-3 is 2
+[19:58:55.251] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.251] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.240] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.252] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.252] [INFO   ] actions size of computer-2 is 2
+[19:58:55.252] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.252] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.252] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.252] [INFO   ] actions size of computer-2 is 1
+[19:58:55.252] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.252] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.235] [INFO   ] actions size of computer-0 is 2
+[19:58:55.253] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.253] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.254] [INFO   ] actions size of computer-0 is 2
+[19:58:55.254] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.255] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.232] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.256] [INFO   ] actions size of computer-1 is 1
+[19:58:55.256] [SEVERE ] player 2 placing token on slot 1
+[19:58:55.257] [INFO   ] actions size of computer-1 is 2
+[19:58:55.257] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.257] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.258] [INFO   ] actions size of computer-1 is 2
+[19:58:55.255] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.259] [INFO   ] actions size of computer-0 is 1
+[19:58:55.259] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.259] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.259] [INFO   ] actions size of computer-0 is 1
+[19:58:55.259] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.259] [INFO   ] actions size of computer-0 is 2
+[19:58:55.260] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.260] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.260] [INFO   ] actions size of computer-0 is 2
+[19:58:55.260] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.260] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.260] [INFO   ] actions size of computer-0 is 2
+[19:58:55.260] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.260] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.261] [INFO   ] actions size of computer-0 is 2
+[19:58:55.262] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.262] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.262] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.262] [INFO   ] actions size of computer-0 is 1
+[19:58:55.263] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.264] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.265] [INFO   ] actions size of computer-0 is 1
+[19:58:55.265] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.265] [INFO   ] actions size of computer-0 is 2
+[19:58:55.265] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.265] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.269] [INFO   ] actions size of computer-0 is 2
+[19:58:55.269] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.269] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.269] [INFO   ] actions size of computer-0 is 2
+[19:58:55.269] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.269] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.269] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.270] [INFO   ] actions size of computer-0 is 1
+[19:58:55.270] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.270] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.270] [INFO   ] actions size of computer-0 is 1
+[19:58:55.270] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.270] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.270] [INFO   ] actions size of computer-0 is 1
+[19:58:55.270] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.270] [INFO   ] actions size of computer-0 is 2
+[19:58:55.270] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.270] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.270] [INFO   ] actions size of computer-0 is 2
+[19:58:55.271] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.271] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.271] [INFO   ] actions size of computer-0 is 2
+[19:58:55.271] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.271] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.252] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.273] [INFO   ] actions size of computer-3 is 1
+[19:58:55.273] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.273] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.273] [INFO   ] actions size of computer-3 is 1
+[19:58:55.273] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.273] [INFO   ] actions size of computer-3 is 2
+[19:58:55.274] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.274] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.274] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.274] [INFO   ] actions size of computer-3 is 1
+[19:58:55.274] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.274] [INFO   ] actions size of computer-3 is 2
+[19:58:55.274] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.274] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.274] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.274] [INFO   ] actions size of computer-3 is 1
+[19:58:55.274] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.274] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.274] [INFO   ] actions size of computer-3 is 1
+[19:58:55.274] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.274] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.275] [INFO   ] actions size of computer-3 is 1
+[19:58:55.275] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.275] [INFO   ] actions size of computer-3 is 2
+[19:58:55.275] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.275] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.275] [INFO   ] actions size of computer-3 is 2
+[19:58:55.275] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.275] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.275] [INFO   ] actions size of computer-3 is 2
+[19:58:55.275] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.275] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.275] [INFO   ] actions size of computer-3 is 2
+[19:58:55.276] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.276] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.276] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.276] [INFO   ] actions size of computer-3 is 1
+[19:58:55.276] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.276] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.276] [INFO   ] actions size of computer-3 is 1
+[19:58:55.276] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.276] [INFO   ] actions size of computer-3 is 2
+[19:58:55.276] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.276] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.276] [INFO   ] actions size of computer-3 is 2
+[19:58:55.276] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.276] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.276] [INFO   ] actions size of computer-3 is 2
+[19:58:55.276] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.277] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.277] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.277] [INFO   ] actions size of computer-3 is 1
+[19:58:55.277] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.277] [INFO   ] actions size of computer-3 is 2
+[19:58:55.252] [INFO   ] actions size of computer-2 is 1
+[19:58:55.282] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.285] [INFO   ] actions size of computer-2 is 2
+[19:58:55.286] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.286] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.287] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.287] [INFO   ] actions size of computer-2 is 1
+[19:58:55.245] [INFO   ] Thread dealer found empty slot 2
+[19:58:55.287] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.288] [INFO   ] actions size of computer-2 is 2
+[19:58:55.289] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.289] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.289] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.289] [INFO   ] actions size of computer-2 is 1
+[19:58:55.289] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.289] [INFO   ] actions size of computer-2 is 2
+[19:58:55.289] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.290] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.290] [INFO   ] actions size of computer-2 is 2
+[19:58:55.290] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.290] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.290] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.290] [INFO   ] actions size of computer-2 is 1
+[19:58:55.290] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.290] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.290] [INFO   ] actions size of computer-2 is 1
+[19:58:55.290] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.290] [INFO   ] actions size of computer-2 is 2
+[19:58:55.290] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.290] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.290] [INFO   ] actions size of computer-2 is 2
+[19:58:55.290] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.291] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.291] [INFO   ] actions size of computer-2 is 2
+[19:58:55.291] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.291] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.291] [INFO   ] actions size of computer-2 is 2
+[19:58:55.292] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.293] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.293] [INFO   ] actions size of computer-2 is 2
+[19:58:55.293] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.293] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.282] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.273] [INFO   ] actions size of computer-0 is 2
+[19:58:55.294] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.294] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.294] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.294] [INFO   ] actions size of computer-0 is 1
+[19:58:55.294] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.294] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.294] [INFO   ] actions size of computer-0 is 1
+[19:58:55.294] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.294] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.294] [INFO   ] actions size of computer-0 is 1
+[19:58:55.294] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.295] [INFO   ] actions size of computer-0 is 2
+[19:58:55.295] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.295] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.295] [INFO   ] actions size of computer-0 is 2
+[19:58:55.295] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.295] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.295] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.295] [INFO   ] actions size of computer-0 is 1
+[19:58:55.295] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.295] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.295] [INFO   ] actions size of computer-0 is 1
+[19:58:55.295] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.258] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.297] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.298] [INFO   ] actions size of computer-1 is 2
+[19:58:55.298] [SEVERE ] removing player 2 token from slot 1
+[19:58:55.299] [SEVERE ] player 2 placing token on slot 1
+[19:58:55.299] [INFO   ] actions size of computer-1 is 2
+[19:58:55.299] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.299] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.299] [INFO   ] actions size of computer-1 is 2
+[19:58:55.301] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.302] [SEVERE ] player 2 placing token on slot 2
+[19:58:55.302] [INFO   ] actions size of computer-1 is 2
+[19:58:55.302] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.302] [INFO   ] actions size of computer-1 is 3
+[19:58:55.302] [INFO   ] tread computer-1 set added
+[19:58:55.302] [INFO   ] num of sets to check 1
+[19:58:55.293] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.293] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.301] [SEVERE ] placing card 77 in slot 2
+[19:58:55.303] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.303] [INFO   ] actions size of computer-3 is 1
+[19:58:55.303] [SEVERE ] player 4 placing token on slot 2
+[19:58:55.303] [INFO   ] actions size of computer-3 is 2
+[19:58:55.303] [SEVERE ] removing player 4 token from slot 2
+[19:58:55.303] [SEVERE ] player 4 placing token on slot 2
+[19:58:55.299] [INFO   ] actions size of computer-0 is 2
+[19:58:55.304] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.305] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.305] [INFO   ] actions size of computer-0 is 2
+[19:58:55.305] [SEVERE ] player 1 placing token on slot 2
+[19:58:55.305] [INFO   ] actions size of computer-0 is 3
+[19:58:55.305] [INFO   ] tread computer-0 set added
+[19:58:55.305] [INFO   ] num of sets to check 2
+[19:58:55.303] [INFO   ] actions size of computer-3 is 2
+[19:58:55.303] [INFO   ] actions size of computer-2 is 1
+[19:58:55.305] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.305] [SEVERE ] player 3 placing token on slot 2
+[19:58:55.305] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.305] [INFO   ] actions size of computer-2 is 2
+[19:58:55.305] [INFO   ] actions size of computer-3 is 2
+[19:58:55.305] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.305] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.306] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.306] [SEVERE ] removing player 4 token from slot 2
+[19:58:55.306] [INFO   ] actions size of computer-2 is 2
+[19:58:55.306] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.306] [SEVERE ] removing player 3 token from slot 2
+[19:58:55.306] [INFO   ] actions size of computer-3 is 1
+[19:58:55.306] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.306] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.306] [INFO   ] actions size of computer-2 is 2
+[19:58:55.306] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.306] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.306] [INFO   ] actions size of computer-3 is 1
+[19:58:55.306] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.306] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.306] [SEVERE ] player 3 placing token on slot 2
+[19:58:55.306] [SEVERE ] player 4 placing token on slot 1
+[19:58:55.306] [INFO   ] actions size of computer-2 is 1
+[19:58:55.306] [INFO   ] actions size of computer-3 is 1
+[19:58:55.306] [SEVERE ] removing player 3 token from slot 2
+[19:58:55.306] [SEVERE ] player 4 placing token on slot 2
+[19:58:55.307] [SEVERE ] player 3 placing token on slot 2
+[19:58:55.307] [INFO   ] actions size of computer-3 is 2
+[19:58:55.307] [INFO   ] actions size of computer-2 is 1
+[19:58:55.307] [SEVERE ] player 4 placing token on slot 0
+[19:58:55.307] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.307] [INFO   ] actions size of computer-2 is 2
+[19:58:55.307] [INFO   ] actions size of computer-3 is 3
+[19:58:55.307] [SEVERE ] removing player 3 token from slot 2
+[19:58:55.307] [INFO   ] tread computer-3 set added
+[19:58:55.308] [INFO   ] num of sets to check 3
+[19:58:55.309] [INFO   ] Thread dealer found empty slot 3
+[19:58:55.309] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.309] [INFO   ] actions size of computer-2 is 2
+[19:58:55.309] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.309] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.309] [SEVERE ] player 3 placing token on slot 2
+[19:58:55.310] [INFO   ] actions size of computer-2 is 1
+[19:58:55.310] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.310] [INFO   ] actions size of computer-2 is 2
+[19:58:55.310] [SEVERE ] removing player 3 token from slot 2
+[19:58:55.310] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.310] [INFO   ] actions size of computer-2 is 2
+[19:58:55.310] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.310] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.310] [INFO   ] actions size of computer-2 is 2
+[19:58:55.310] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.310] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.310] [INFO   ] actions size of computer-2 is 2
+[19:58:55.310] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.310] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.310] [SEVERE ] player 3 placing token on slot 1
+[19:58:55.310] [INFO   ] actions size of computer-2 is 1
+[19:58:55.310] [SEVERE ] player 3 placing token on slot 0
+[19:58:55.310] [INFO   ] actions size of computer-2 is 2
+[19:58:55.310] [SEVERE ] player 3 placing token on slot 2
+[19:58:55.311] [INFO   ] actions size of computer-2 is 3
+[19:58:55.311] [INFO   ] tread computer-2 set added
+[19:58:55.311] [INFO   ] num of sets to check 4
+[19:58:55.319] [SEVERE ] placing card 31 in slot 3
+[19:58:55.319] [INFO   ] Thread dealer found empty slot 4
+[19:58:55.330] [SEVERE ] placing card 40 in slot 4
+[19:58:55.331] [INFO   ] Thread dealer found empty slot 5
+[19:58:55.342] [SEVERE ] placing card 58 in slot 5
+[19:58:55.343] [INFO   ] Thread dealer found empty slot 6
+[19:58:55.344] [INFO   ] Thread dealer found empty slot 6
+[19:58:55.354] [SEVERE ] placing card 59 in slot 6
+[19:58:55.355] [INFO   ] Thread dealer found empty slot 7
+[19:58:55.366] [SEVERE ] placing card 0 in slot 7
+[19:58:55.367] [INFO   ] Thread dealer found empty slot 8
+[19:58:55.377] [SEVERE ] placing card 45 in slot 8
+[19:58:55.378] [INFO   ] Thread dealer found empty slot 9
+[19:58:55.388] [SEVERE ] placing card 33 in slot 9
+[19:58:55.389] [INFO   ] Thread dealer found empty slot 10
+[19:58:55.399] [SEVERE ] placing card 64 in slot 10
+[19:58:55.400] [INFO   ] Thread dealer found empty slot 11
+[19:58:55.411] [SEVERE ] placing card 47 in slot 11
+[19:58:55.421] [SEVERE ] updating countdown to 1090
+[19:58:55.421] [INFO   ] Thread dealer checking set.
+[19:58:55.422] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:58:55.422] [INFO   ] Thread dealer change state to -1
+[19:58:55.423] [INFO   ] Thread dealer change setCheck to 1
+[19:58:55.424] [INFO   ] Thread dealer checking set.
+[19:58:55.424] [SEVERE ] setting player 2 freeze to 4
+[19:58:55.424] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:58:55.425] [INFO   ] Thread dealer change state to -1
+[19:58:55.426] [INFO   ] Thread dealer change setCheck to 1
+[19:58:55.426] [INFO   ] Thread dealer checking set.
+[19:58:55.426] [SEVERE ] setting player 1 freeze to 4
+[19:58:55.427] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:58:55.428] [INFO   ] Thread dealer change state to -1
+[19:58:55.429] [INFO   ] Thread dealer change setCheck to 1
+[19:58:55.429] [INFO   ] Thread dealer checking set.
+[19:58:55.429] [SEVERE ] setting player 4 freeze to 4
+[19:58:55.429] [SEVERE ] removing player 2 token from slot 1
+[19:58:55.430] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:58:55.431] [INFO   ] Thread dealer change state to -1
+[19:58:55.431] [INFO   ] Thread dealer change setCheck to 1
+[19:58:55.431] [SEVERE ] removing player 2 token from slot 2
+[19:58:55.432] [SEVERE ] setting player 3 freeze to 4
+[19:58:55.431] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.433] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.432] [SEVERE ] removing player 2 token from slot 0
+[19:58:55.434] [SEVERE ] setting player 2 freeze to 0
+[19:58:55.434] [SEVERE ] removing player 1 token from slot 2
+[19:58:55.435] [SEVERE ] setting player 1 freeze to 0
+[19:58:55.437] [SEVERE ] removing player 3 token from slot 1
+[19:58:55.437] [SEVERE ] removing player 3 token from slot 0
+[19:58:55.437] [SEVERE ] removing player 3 token from slot 2
+[19:58:55.437] [SEVERE ] setting player 3 freeze to 0
+[19:58:55.434] [SEVERE ] removing player 4 token from slot 1
+[19:58:55.440] [SEVERE ] removing player 4 token from slot 2
+[19:58:55.447] [SEVERE ] removing player 4 token from slot 0
+[19:58:55.447] [SEVERE ] setting player 4 freeze to 0
+[19:58:55.442] [SEVERE ] updating countdown to 1069
+[19:58:55.448] [SEVERE ] player 1 placing token on slot 4
+[19:58:55.449] [INFO   ] actions size of computer-0 is 1
+[19:58:55.450] [SEVERE ] player 1 placing token on slot 9
+[19:58:55.450] [INFO   ] actions size of computer-0 is 2
+[19:58:55.451] [SEVERE ] player 1 placing token on slot 11
+[19:58:55.451] [INFO   ] actions size of computer-0 is 3
+[19:58:55.449] [SEVERE ] player 2 placing token on slot 0
+[19:58:55.448] [SEVERE ] player 3 placing token on slot 9
+[19:58:55.452] [INFO   ] actions size of computer-2 is 1
+[19:58:55.453] [SEVERE ] player 3 placing token on slot 10
+[19:58:55.448] [SEVERE ] player 4 placing token on slot 10
+[19:58:55.453] [INFO   ] actions size of computer-2 is 2
+[19:58:55.454] [SEVERE ] player 3 placing token on slot 6
+[19:58:55.455] [INFO   ] actions size of computer-2 is 3
+[19:58:55.455] [INFO   ] tread computer-2 set added
+[19:58:55.452] [INFO   ] actions size of computer-1 is 1
+[19:58:55.452] [INFO   ] tread computer-0 set added
+[19:58:55.457] [INFO   ] num of sets to check 2
+[19:58:55.456] [SEVERE ] player 2 placing token on slot 11
+[19:58:55.456] [INFO   ] num of sets to check 2
+[19:58:55.454] [INFO   ] actions size of computer-3 is 1
+[19:58:55.458] [SEVERE ] updating countdown to 1053
+[19:58:55.459] [INFO   ] Thread dealer checking set.
+[19:58:55.458] [INFO   ] actions size of computer-1 is 2
+[19:58:55.460] [SEVERE ] player 2 placing token on slot 8
+[19:58:55.461] [INFO   ] actions size of computer-1 is 3
+[19:58:55.461] [INFO   ] tread computer-1 set added
+[19:58:55.462] [INFO   ] num of sets to check 2
+[19:58:55.460] [INFO   ] Thread dealer say : this is set!!!!!.
+[19:58:55.462] [INFO   ] Thread dealer change state to 1
+[19:58:55.463] [INFO   ] Thread dealer change setCheck to 1
+[19:58:55.459] [SEVERE ] player 4 placing token on slot 11
+[19:58:55.464] [INFO   ] actions size of computer-3 is 2
+[19:58:55.464] [SEVERE ] player 4 placing token on slot 7
+[19:58:55.464] [INFO   ] actions size of computer-3 is 3
+[19:58:55.464] [INFO   ] tread computer-3 set added
+[19:58:55.464] [INFO   ] num of sets to check 3
+[19:58:55.473] [SEVERE ] removing card from slot 4
+[19:58:55.484] [SEVERE ] removing card from slot 9
+[19:58:55.494] [SEVERE ] removing card from slot 11
+[19:58:55.494] [SEVERE ] updating countdown to 100
+[19:58:55.495] [SEVERE ] removing player 1 token from slot 4
+[19:58:55.495] [INFO   ] Thread dealer checking set.
+[19:58:55.496] [SEVERE ] removing player 1 token from slot 9
+[19:58:55.496] [INFO   ] Thread dealer checking set.
+[19:58:55.496] [SEVERE ] removing player 1 token from slot 11
+[19:58:55.496] [INFO   ] Thread dealer checking set.
+[19:58:55.496] [SEVERE ] setting player 1 freeze to 2
+[19:58:55.496] [INFO   ] Thread dealer found empty slot 4
+[19:58:55.501] [SEVERE ] setting player 1 freeze to 0
+[19:58:55.501] [SEVERE ] setting player 1 score to 1
+[19:58:55.507] [SEVERE ] placing card 42 in slot 4
+[19:58:55.508] [INFO   ] Thread dealer found empty slot 9
+[19:58:55.518] [SEVERE ] placing card 17 in slot 9
+[19:58:55.518] [INFO   ] Thread dealer found empty slot 11
+[19:58:55.529] [SEVERE ] placing card 57 in slot 11
+[19:58:55.529] [SEVERE ] player 1 placing token on slot 3
+[19:58:55.530] [INFO   ] actions size of computer-0 is 1
+[19:58:55.530] [SEVERE ] player 1 placing token on slot 9
+[19:58:55.531] [INFO   ] actions size of computer-0 is 2
+[19:58:55.531] [SEVERE ] player 1 placing token on slot 1
+[19:58:55.532] [INFO   ] actions size of computer-0 is 3
+[19:58:55.532] [INFO   ] tread computer-0 set added
+[19:58:55.533] [INFO   ] num of sets to check 1
+[19:58:55.539] [SEVERE ] updating countdown to 55
+[19:58:55.540] [INFO   ] Thread dealer checking set.
+[19:58:55.540] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:58:55.540] [INFO   ] Thread dealer change state to -1
+[19:58:55.540] [INFO   ] Thread dealer change setCheck to 1
+[19:58:55.540] [SEVERE ] setting player 1 freeze to 4
+[19:58:55.545] [SEVERE ] removing player 1 token from slot 3
+[19:58:55.545] [SEVERE ] removing player 1 token from slot 9
+[19:58:55.546] [SEVERE ] removing player 1 token from slot 1
+[19:58:55.546] [SEVERE ] setting player 1 freeze to 0
+[19:58:55.550] [SEVERE ] updating countdown to 44
+[19:58:55.551] [SEVERE ] player 1 placing token on slot 0
+[19:58:55.551] [INFO   ] actions size of computer-0 is 1
+[19:58:55.552] [SEVERE ] player 1 placing token on slot 8
+[19:58:55.552] [INFO   ] actions size of computer-0 is 2
+[19:58:55.552] [SEVERE ] player 1 placing token on slot 11
+[19:58:55.553] [INFO   ] actions size of computer-0 is 3
+[19:58:55.553] [INFO   ] tread computer-0 set added
+[19:58:55.554] [INFO   ] num of sets to check 1
+[19:58:55.561] [SEVERE ] updating countdown to 33
+[19:58:55.561] [INFO   ] Thread dealer checking set.
+[19:58:55.561] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:58:55.561] [INFO   ] Thread dealer change state to -1
+[19:58:55.562] [INFO   ] Thread dealer change setCheck to 1
+[19:58:55.562] [SEVERE ] setting player 1 freeze to 4
+[19:58:55.567] [SEVERE ] removing player 1 token from slot 0
+[19:58:55.567] [SEVERE ] removing player 1 token from slot 8
+[19:58:55.568] [SEVERE ] removing player 1 token from slot 11
+[19:58:55.568] [SEVERE ] setting player 1 freeze to 0
+[19:58:55.573] [SEVERE ] updating countdown to 21
+[19:58:55.573] [SEVERE ] player 1 placing token on slot 7
+[19:58:55.573] [INFO   ] actions size of computer-0 is 1
+[19:58:55.574] [SEVERE ] player 1 placing token on slot 9
+[19:58:55.574] [INFO   ] actions size of computer-0 is 2
+[19:58:55.575] [SEVERE ] player 1 placing token on slot 2
+[19:58:55.575] [INFO   ] actions size of computer-0 is 3
+[19:58:55.576] [INFO   ] tread computer-0 set added
+[19:58:55.576] [INFO   ] num of sets to check 1
+[19:58:55.583] [SEVERE ] updating countdown to 11
+[19:58:55.583] [INFO   ] Thread dealer checking set.
+[19:58:55.584] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:58:55.584] [INFO   ] Thread dealer change state to -1
+[19:58:55.585] [INFO   ] Thread dealer change setCheck to 1
+[19:58:55.585] [SEVERE ] setting player 1 freeze to 4
+[19:58:55.590] [SEVERE ] removing player 1 token from slot 7
+[19:58:55.590] [SEVERE ] removing player 1 token from slot 9
+[19:58:55.591] [SEVERE ] removing player 1 token from slot 2
+[19:58:55.591] [SEVERE ] setting player 1 freeze to 0
+[19:58:55.598] [SEVERE ] updating countdown to 0
+[19:58:55.598] [SEVERE ] player 1 placing token on slot 11
+[19:58:55.599] [INFO   ] actions size of computer-0 is 1
+[19:58:55.602] [SEVERE ] player 1 placing token on slot 8
+[19:58:55.604] [INFO   ] actions size of computer-0 is 2
+[19:58:55.605] [SEVERE ] player 1 placing token on slot 2
+[19:58:55.605] [INFO   ] actions size of computer-0 is 3
+[19:58:55.605] [INFO   ] tread computer-0 set added
+[19:58:55.605] [INFO   ] num of sets to check 1
+[19:58:55.609] [SEVERE ] removing card from slot 0
+[19:58:55.619] [SEVERE ] removing card from slot 1
+[19:58:55.629] [SEVERE ] removing card from slot 2
+[19:58:55.639] [SEVERE ] removing card from slot 3
+[19:58:55.650] [SEVERE ] removing card from slot 4
+[19:58:55.660] [SEVERE ] removing card from slot 5
+[19:58:55.671] [SEVERE ] removing card from slot 6
+[19:58:55.681] [SEVERE ] removing card from slot 7
+[19:58:55.691] [SEVERE ] removing card from slot 8
+[19:58:55.702] [SEVERE ] removing card from slot 9
+[19:58:55.712] [SEVERE ] removing card from slot 10
+[19:58:55.722] [SEVERE ] removing card from slot 11
+[19:58:55.723] [INFO   ] Thread dealer found empty slot 0
+[19:58:55.733] [SEVERE ] placing card 30 in slot 0
+[19:58:55.734] [INFO   ] Thread dealer found empty slot 1
+[19:58:55.744] [SEVERE ] placing card 21 in slot 1
+[19:58:55.744] [INFO   ] Thread dealer found empty slot 2
+[19:58:55.755] [SEVERE ] placing card 14 in slot 2
+[19:58:55.755] [INFO   ] Thread dealer found empty slot 3
+[19:58:55.766] [SEVERE ] placing card 65 in slot 3
+[19:58:55.766] [INFO   ] Thread dealer found empty slot 4
+[19:58:55.777] [SEVERE ] placing card 53 in slot 4
+[19:58:55.777] [INFO   ] Thread dealer found empty slot 5
+[19:58:55.788] [SEVERE ] placing card 67 in slot 5
+[19:58:55.788] [INFO   ] Thread dealer found empty slot 6
+[19:58:55.799] [SEVERE ] placing card 60 in slot 6
+[19:58:55.799] [INFO   ] Thread dealer found empty slot 7
+[19:58:55.810] [SEVERE ] placing card 38 in slot 7
+[19:58:55.810] [INFO   ] Thread dealer found empty slot 8
+[19:58:55.821] [SEVERE ] placing card 45 in slot 8
+[19:58:55.822] [INFO   ] Thread dealer found empty slot 9
+[19:58:55.832] [SEVERE ] placing card 31 in slot 9
+[19:58:55.833] [INFO   ] Thread dealer found empty slot 10
+[19:58:55.843] [SEVERE ] placing card 0 in slot 10
+[19:58:55.844] [INFO   ] Thread dealer found empty slot 11
+[19:58:55.855] [SEVERE ] placing card 55 in slot 11
+[19:58:55.865] [SEVERE ] updating countdown to 1090
+[19:58:55.866] [INFO   ] Thread dealer checking set.
+[19:58:55.877] [SEVERE ] updating countdown to 1078
+[19:58:55.887] [SEVERE ] updating countdown to 1068
+[19:58:55.898] [SEVERE ] updating countdown to 1057
+[19:58:55.908] [SEVERE ] updating countdown to 1047
+[19:58:55.919] [SEVERE ] updating countdown to 1036
+[19:58:55.929] [SEVERE ] updating countdown to 1026
+[19:58:55.940] [SEVERE ] updating countdown to 1015
+[19:58:55.950] [SEVERE ] updating countdown to 1005
+[19:58:55.961] [SEVERE ] updating countdown to 994
+[19:58:55.971] [SEVERE ] updating countdown to 984
+[19:58:55.981] [SEVERE ] updating countdown to 974
+[19:58:55.992] [SEVERE ] updating countdown to 963
+[19:58:56.002] [SEVERE ] updating countdown to 953
+[19:58:56.013] [SEVERE ] updating countdown to 942
+[19:58:56.024] [SEVERE ] updating countdown to 932
+[19:58:56.034] [SEVERE ] updating countdown to 921
+[19:58:56.044] [SEVERE ] updating countdown to 911
+[19:58:56.055] [SEVERE ] updating countdown to 900
+[19:58:56.066] [SEVERE ] updating countdown to 889
+[19:58:56.076] [SEVERE ] updating countdown to 879
+[19:58:56.087] [SEVERE ] updating countdown to 868
+[19:58:56.098] [SEVERE ] updating countdown to 857
+[19:58:56.108] [SEVERE ] updating countdown to 847
+[19:58:56.119] [SEVERE ] updating countdown to 836
+[19:58:56.130] [SEVERE ] updating countdown to 825
+[19:58:56.141] [SEVERE ] updating countdown to 815
+[19:58:56.151] [SEVERE ] updating countdown to 804
+[19:58:56.162] [SEVERE ] updating countdown to 793
+[19:58:56.173] [SEVERE ] updating countdown to 782
+[19:58:56.183] [SEVERE ] updating countdown to 772
+[19:58:56.194] [SEVERE ] updating countdown to 761
+[19:58:56.204] [SEVERE ] updating countdown to 751
+[19:58:56.215] [SEVERE ] updating countdown to 740
+[19:58:56.226] [SEVERE ] updating countdown to 729
+[19:58:56.236] [SEVERE ] updating countdown to 719
+[19:58:56.247] [SEVERE ] updating countdown to 708
+[19:58:56.258] [SEVERE ] updating countdown to 697
+[19:58:56.269] [SEVERE ] updating countdown to 686
+[19:58:56.279] [SEVERE ] updating countdown to 676
+[19:58:56.290] [SEVERE ] updating countdown to 665
+[19:58:56.301] [SEVERE ] updating countdown to 654
+[19:58:56.312] [SEVERE ] updating countdown to 643
+[19:58:56.322] [SEVERE ] updating countdown to 633
+[19:58:56.333] [SEVERE ] updating countdown to 622
+[19:58:56.344] [SEVERE ] updating countdown to 611
+[19:58:56.354] [SEVERE ] updating countdown to 601
+[19:58:56.364] [SEVERE ] updating countdown to 591
+[19:58:56.375] [SEVERE ] updating countdown to 580
+[19:58:56.386] [SEVERE ] updating countdown to 569
+[19:58:56.396] [SEVERE ] updating countdown to 559
+[19:58:56.407] [SEVERE ] updating countdown to 548
+[19:58:56.418] [SEVERE ] updating countdown to 537
+[19:58:56.429] [SEVERE ] updating countdown to 526
+[19:58:56.439] [SEVERE ] updating countdown to 516
+[19:58:56.450] [SEVERE ] updating countdown to 505
+[19:58:56.461] [SEVERE ] updating countdown to 494
+[19:58:56.471] [SEVERE ] updating countdown to 484
+[19:58:56.482] [SEVERE ] updating countdown to 473
+[19:58:56.493] [SEVERE ] updating countdown to 462
+[19:58:56.504] [SEVERE ] updating countdown to 451
+[19:58:56.514] [SEVERE ] updating countdown to 441
+[19:58:56.525] [SEVERE ] updating countdown to 430
+[19:58:56.536] [SEVERE ] updating countdown to 419
+[19:58:56.547] [SEVERE ] updating countdown to 408
+[19:58:56.557] [SEVERE ] updating countdown to 398
+[19:58:56.568] [SEVERE ] updating countdown to 387
+[19:58:56.578] [SEVERE ] updating countdown to 377
+[19:58:56.589] [SEVERE ] updating countdown to 366
+[19:58:56.600] [SEVERE ] updating countdown to 355
+[19:58:56.610] [SEVERE ] updating countdown to 345
+[19:58:56.621] [SEVERE ] updating countdown to 334
+[19:58:56.631] [SEVERE ] updating countdown to 324
+[19:58:56.642] [SEVERE ] updating countdown to 313
+[19:58:56.652] [SEVERE ] updating countdown to 303
+[19:58:56.663] [SEVERE ] updating countdown to 292
+[19:58:56.674] [SEVERE ] updating countdown to 281
+[19:58:56.684] [SEVERE ] updating countdown to 271
+[19:58:56.695] [SEVERE ] updating countdown to 260
+[19:58:56.705] [SEVERE ] updating countdown to 250
+[19:58:56.716] [SEVERE ] updating countdown to 239
+[19:58:56.727] [SEVERE ] updating countdown to 229
+[19:58:56.737] [SEVERE ] updating countdown to 218
+[19:58:56.748] [SEVERE ] updating countdown to 207
+[19:58:56.758] [SEVERE ] updating countdown to 197
+[19:58:56.769] [SEVERE ] updating countdown to 186
+[19:58:56.779] [SEVERE ] updating countdown to 176
+[19:58:56.790] [SEVERE ] updating countdown to 165
+[19:58:56.801] [SEVERE ] updating countdown to 154
+[19:58:56.811] [SEVERE ] updating countdown to 144
+[19:58:56.822] [SEVERE ] updating countdown to 133
+[19:58:56.833] [SEVERE ] updating countdown to 122
+[19:58:56.844] [SEVERE ] updating countdown to 111
+[19:58:56.854] [SEVERE ] updating countdown to 101
+[19:58:56.865] [SEVERE ] updating countdown to 90
+[19:58:56.875] [SEVERE ] updating countdown to 80
+[19:58:56.886] [SEVERE ] updating countdown to 69
+[19:58:56.897] [SEVERE ] updating countdown to 58
+[19:58:56.907] [SEVERE ] updating countdown to 48
+[19:58:56.918] [SEVERE ] updating countdown to 37
+[19:58:56.929] [SEVERE ] updating countdown to 26
+[19:58:56.939] [SEVERE ] updating countdown to 16
+[19:58:56.955] [SEVERE ] updating countdown to 0
+[19:58:56.965] [SEVERE ] removing card from slot 0
+[19:58:56.977] [SEVERE ] removing card from slot 1
+[19:58:56.987] [SEVERE ] removing card from slot 2
+[19:58:56.998] [SEVERE ] removing card from slot 3
+[19:58:57.009] [SEVERE ] removing card from slot 4
+[19:58:57.019] [SEVERE ] removing card from slot 5
+[19:58:57.030] [SEVERE ] removing card from slot 6
+[19:58:57.041] [SEVERE ] removing card from slot 7
+[19:58:57.051] [SEVERE ] removing card from slot 8
+[19:58:57.062] [SEVERE ] removing card from slot 9
+[19:58:57.072] [SEVERE ] removing card from slot 10
+[19:58:57.083] [SEVERE ] removing card from slot 11
+[19:58:57.084] [INFO   ] Thread dealer found empty slot 0
+[19:58:57.094] [SEVERE ] placing card 79 in slot 0
+[19:58:57.094] [INFO   ] Thread dealer found empty slot 1
+[19:58:57.105] [SEVERE ] placing card 57 in slot 1
+[19:58:57.105] [INFO   ] Thread dealer found empty slot 2
+[19:58:57.116] [SEVERE ] placing card 32 in slot 2
+[19:58:57.117] [INFO   ] Thread dealer found empty slot 3
+[19:58:57.127] [SEVERE ] placing card 26 in slot 3
+[19:58:57.128] [INFO   ] Thread dealer found empty slot 4
+[19:58:57.129] [INFO   ] Thread dealer found empty slot 4
+[19:58:57.139] [SEVERE ] placing card 45 in slot 4
+[19:58:57.140] [INFO   ] Thread dealer found empty slot 5
+[19:58:57.150] [SEVERE ] placing card 43 in slot 5
+[19:58:57.151] [INFO   ] Thread dealer found empty slot 6
+[19:58:57.161] [SEVERE ] placing card 51 in slot 6
+[19:58:57.162] [INFO   ] Thread dealer found empty slot 7
+[19:58:57.173] [SEVERE ] placing card 67 in slot 7
+[19:58:57.173] [INFO   ] Thread dealer found empty slot 8
+[19:58:57.184] [SEVERE ] placing card 8 in slot 8
+[19:58:57.184] [INFO   ] Thread dealer found empty slot 9
+[19:58:57.195] [SEVERE ] placing card 54 in slot 9
+[19:58:57.195] [INFO   ] Thread dealer found empty slot 10
+[19:58:57.207] [SEVERE ] placing card 22 in slot 10
+[19:58:57.208] [INFO   ] Thread dealer found empty slot 11
+[19:58:57.218] [SEVERE ] placing card 48 in slot 11
+[19:58:57.229] [SEVERE ] updating countdown to 1090
+[19:58:57.239] [SEVERE ] updating countdown to 1080
+[19:58:57.250] [SEVERE ] updating countdown to 1069
+[19:58:57.261] [SEVERE ] updating countdown to 1058
+[19:58:57.271] [SEVERE ] updating countdown to 1048
+[19:58:57.282] [SEVERE ] updating countdown to 1037
+[19:58:57.292] [SEVERE ] updating countdown to 1027
+[19:58:57.303] [SEVERE ] updating countdown to 1016
+[19:58:57.314] [SEVERE ] updating countdown to 1005
+[19:58:57.325] [SEVERE ] updating countdown to 994
+[19:58:57.336] [SEVERE ] updating countdown to 983
+[19:58:57.346] [SEVERE ] updating countdown to 973
+[19:58:57.357] [SEVERE ] updating countdown to 962
+[19:58:57.368] [SEVERE ] updating countdown to 951
+[19:58:57.378] [SEVERE ] updating countdown to 941
+[19:58:57.389] [SEVERE ] updating countdown to 930
+[19:58:57.400] [SEVERE ] updating countdown to 919
+[19:58:57.410] [SEVERE ] updating countdown to 909
+[19:58:57.421] [SEVERE ] updating countdown to 898
+[19:58:57.432] [SEVERE ] updating countdown to 887
+[19:58:57.442] [SEVERE ] updating countdown to 877
+[19:58:57.453] [SEVERE ] updating countdown to 866
+[19:58:57.464] [SEVERE ] updating countdown to 855
+[19:58:57.474] [SEVERE ] updating countdown to 845
+[19:58:57.485] [SEVERE ] updating countdown to 834
+[19:58:57.496] [SEVERE ] updating countdown to 823
+[19:58:57.507] [SEVERE ] updating countdown to 812
+[19:58:57.517] [SEVERE ] updating countdown to 802
+[19:58:57.528] [SEVERE ] updating countdown to 791
+[19:58:57.539] [SEVERE ] updating countdown to 780
+[19:58:57.550] [SEVERE ] updating countdown to 770
+[19:58:57.560] [SEVERE ] updating countdown to 759
+[19:58:57.571] [SEVERE ] updating countdown to 748
+[19:58:57.582] [SEVERE ] updating countdown to 737
+[19:58:57.592] [SEVERE ] updating countdown to 727
+[19:58:57.602] [SEVERE ] updating countdown to 717
+[19:58:57.613] [SEVERE ] updating countdown to 706
+[19:58:57.623] [SEVERE ] updating countdown to 696
+[19:58:57.633] [SEVERE ] updating countdown to 686
+[19:58:57.644] [SEVERE ] updating countdown to 675
+[19:58:57.654] [SEVERE ] updating countdown to 665
+[19:58:57.665] [SEVERE ] updating countdown to 654
+[19:58:57.675] [SEVERE ] updating countdown to 644
+[19:58:57.685] [SEVERE ] updating countdown to 634
+[19:58:57.696] [SEVERE ] updating countdown to 623
+[19:58:57.706] [SEVERE ] updating countdown to 613
+[19:58:57.717] [SEVERE ] updating countdown to 602
+[19:58:57.728] [SEVERE ] updating countdown to 591
+[19:58:57.738] [SEVERE ] updating countdown to 581
+[19:58:57.749] [SEVERE ] updating countdown to 570
+[19:58:57.759] [SEVERE ] updating countdown to 560
+[19:58:57.770] [SEVERE ] updating countdown to 549
+[19:58:57.781] [SEVERE ] updating countdown to 538
+[19:58:57.791] [SEVERE ] updating countdown to 528
+[19:58:57.802] [SEVERE ] updating countdown to 517
+[19:58:57.812] [SEVERE ] updating countdown to 507
+[19:58:57.823] [SEVERE ] updating countdown to 496
+[19:58:57.833] [SEVERE ] updating countdown to 486
+[19:58:57.844] [SEVERE ] updating countdown to 475
+[19:58:57.854] [SEVERE ] updating countdown to 465
+[19:58:57.864] [SEVERE ] updating countdown to 455
+[19:58:57.875] [SEVERE ] updating countdown to 444
+[19:58:57.885] [SEVERE ] updating countdown to 434
+[19:58:57.895] [SEVERE ] updating countdown to 424
+[19:58:57.905] [SEVERE ] updating countdown to 414
+[19:58:57.916] [SEVERE ] updating countdown to 403
+[19:58:57.926] [SEVERE ] updating countdown to 393
+[19:58:57.936] [SEVERE ] updating countdown to 383
+[19:58:57.949] [SEVERE ] updating countdown to 370
+[19:58:57.959] [SEVERE ] updating countdown to 360
+[19:58:57.969] [SEVERE ] updating countdown to 350
+[19:58:57.980] [SEVERE ] updating countdown to 339
+[19:58:57.990] [SEVERE ] updating countdown to 329
+[19:58:58.001] [SEVERE ] updating countdown to 318
+[19:58:58.011] [SEVERE ] updating countdown to 308
+[19:58:58.022] [SEVERE ] updating countdown to 297
+[19:58:58.032] [SEVERE ] updating countdown to 287
+[19:58:58.043] [SEVERE ] updating countdown to 276
+[19:58:58.053] [SEVERE ] updating countdown to 266
+[19:58:58.063] [SEVERE ] updating countdown to 256
+[19:58:58.073] [SEVERE ] updating countdown to 246
+[19:58:58.084] [SEVERE ] updating countdown to 235
+[19:58:58.094] [SEVERE ] updating countdown to 225
+[19:58:58.104] [SEVERE ] updating countdown to 215
+[19:58:58.115] [SEVERE ] updating countdown to 204
+[19:58:58.125] [SEVERE ] updating countdown to 194
+[19:58:58.135] [SEVERE ] updating countdown to 184
+[19:58:58.145] [SEVERE ] updating countdown to 174
+[19:58:58.156] [SEVERE ] updating countdown to 163
+[19:58:58.166] [SEVERE ] updating countdown to 153
+[19:58:58.176] [SEVERE ] updating countdown to 143
+[19:58:58.187] [SEVERE ] updating countdown to 132
+[19:58:58.197] [SEVERE ] updating countdown to 122
+[19:58:58.208] [SEVERE ] updating countdown to 111
+[19:58:58.218] [SEVERE ] updating countdown to 101
+[19:58:58.229] [SEVERE ] updating countdown to 90
+[19:58:58.239] [SEVERE ] updating countdown to 80
+[19:58:58.250] [SEVERE ] updating countdown to 69
+[19:58:58.261] [SEVERE ] updating countdown to 58
+[19:58:58.271] [SEVERE ] updating countdown to 48
+[19:58:58.282] [SEVERE ] updating countdown to 37
+[19:58:58.292] [SEVERE ] updating countdown to 27
+[19:58:58.302] [SEVERE ] updating countdown to 17
+[19:58:58.324] [SEVERE ] updating countdown to 0
+[19:58:58.335] [SEVERE ] removing card from slot 0
+[19:58:58.345] [SEVERE ] removing card from slot 1
+[19:58:58.356] [SEVERE ] removing card from slot 2
+[19:58:58.366] [SEVERE ] removing card from slot 3
+[19:58:58.376] [SEVERE ] removing card from slot 4
+[19:58:58.387] [SEVERE ] removing card from slot 5
+[19:58:58.397] [SEVERE ] removing card from slot 6
+[19:58:58.407] [SEVERE ] removing card from slot 7
+[19:58:58.417] [SEVERE ] removing card from slot 8
+[19:58:58.428] [SEVERE ] removing card from slot 9
+[19:58:58.438] [SEVERE ] removing card from slot 10
+[19:58:58.448] [SEVERE ] removing card from slot 11
+[19:58:58.449] [INFO   ] Thread dealer found empty slot 0
+[19:58:58.459] [SEVERE ] placing card 5 in slot 0
+[19:58:58.459] [INFO   ] Thread dealer found empty slot 1
+[19:58:58.470] [SEVERE ] placing card 48 in slot 1
+[19:58:58.470] [INFO   ] Thread dealer found empty slot 2
+[19:58:58.481] [SEVERE ] placing card 8 in slot 2
+[19:58:58.481] [INFO   ] Thread dealer found empty slot 3
+[19:58:58.492] [SEVERE ] placing card 11 in slot 3
+[19:58:58.492] [INFO   ] Thread dealer found empty slot 4
+[19:58:58.503] [SEVERE ] placing card 26 in slot 4
+[19:58:58.503] [INFO   ] Thread dealer found empty slot 5
+[19:58:58.514] [SEVERE ] placing card 17 in slot 5
+[19:58:58.515] [INFO   ] Thread dealer found empty slot 6
+[19:58:58.525] [SEVERE ] placing card 76 in slot 6
+[19:58:58.526] [INFO   ] Thread dealer found empty slot 7
+[19:58:58.537] [SEVERE ] placing card 43 in slot 7
+[19:58:58.537] [INFO   ] Thread dealer found empty slot 8
+[19:58:58.548] [SEVERE ] placing card 27 in slot 8
+[19:58:58.548] [INFO   ] Thread dealer found empty slot 9
+[19:58:58.559] [SEVERE ] placing card 75 in slot 9
+[19:58:58.559] [INFO   ] Thread dealer found empty slot 10
+[19:58:58.570] [SEVERE ] placing card 45 in slot 10
+[19:58:58.571] [INFO   ] Thread dealer found empty slot 11
+[19:58:58.571] [INFO   ] Thread dealer found empty slot 11
+[19:58:58.582] [SEVERE ] placing card 70 in slot 11
+[19:58:58.593] [SEVERE ] updating countdown to 1090
+[19:58:58.604] [SEVERE ] updating countdown to 1079
+[19:58:58.614] [SEVERE ] updating countdown to 1069
+[19:58:58.625] [SEVERE ] updating countdown to 1058
+[19:58:58.635] [SEVERE ] updating countdown to 1048
+[19:58:58.646] [SEVERE ] updating countdown to 1037
+[19:58:58.656] [SEVERE ] updating countdown to 1027
+[19:58:58.667] [SEVERE ] updating countdown to 1016
+[19:58:58.677] [SEVERE ] updating countdown to 1006
+[19:58:58.688] [SEVERE ] updating countdown to 995
+[19:58:58.698] [SEVERE ] updating countdown to 985
+[19:58:58.709] [SEVERE ] updating countdown to 974
+[19:58:58.719] [SEVERE ] updating countdown to 964
+[19:58:58.730] [SEVERE ] updating countdown to 953
+[19:58:58.740] [SEVERE ] updating countdown to 943
+[19:58:58.751] [SEVERE ] updating countdown to 932
+[19:58:58.761] [SEVERE ] updating countdown to 922
+[19:58:58.772] [SEVERE ] updating countdown to 911
+[19:58:58.783] [SEVERE ] updating countdown to 900
+[19:58:58.794] [SEVERE ] updating countdown to 890
+[19:58:58.804] [SEVERE ] updating countdown to 879
+[19:58:58.814] [SEVERE ] updating countdown to 869
+[19:58:58.825] [SEVERE ] updating countdown to 858
+[19:58:58.835] [SEVERE ] updating countdown to 848
+[19:58:58.845] [SEVERE ] updating countdown to 838
+[19:58:58.855] [SEVERE ] updating countdown to 828
+[19:58:58.866] [SEVERE ] updating countdown to 817
+[19:58:58.876] [SEVERE ] updating countdown to 807

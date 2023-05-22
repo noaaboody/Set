@@ -1,0 +1,106 @@
+[19:22:05.343] [INFO   ] thread main starting.
+[19:22:05.349] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[19:22:05.351] [SEVERE ] configuration file was loaded from resources directory.
+[19:22:05.798] [INFO   ] thread dealer starting.
+[19:22:05.800] [INFO   ] thread player number 0 starting.
+[19:22:05.802] [INFO   ] thread player number 1 starting.
+[19:22:05.807] [INFO   ] thread computer-0 starting.
+[19:22:05.810] [SEVERE ] player 1 placing token on slot 10
+[19:22:05.811] [INFO   ] actions size of computer-0 is 1
+[19:22:05.812] [INFO   ] Thread dealer found empty slot 0
+[19:22:05.812] [SEVERE ] player 1 placing token on slot 7
+[19:22:05.813] [INFO   ] actions size of computer-0 is 2
+[19:22:05.813] [SEVERE ] player 1 placing token on slot 2
+[19:22:05.814] [INFO   ] actions size of computer-0 is 3
+[19:22:05.819] [INFO   ] thread computer-1 starting.
+[19:22:05.819] [SEVERE ] player 2 placing token on slot 2
+[19:22:05.820] [INFO   ] actions size of computer-1 is 1
+[19:22:05.821] [SEVERE ] player 2 placing token on slot 8
+[19:22:05.821] [INFO   ] actions size of computer-1 is 2
+[19:22:05.822] [SEVERE ] player 2 placing token on slot 9
+[19:22:05.822] [INFO   ] actions size of computer-1 is 3
+[19:22:05.913] [SEVERE ] placing card 48 in slot 0
+[19:22:05.914] [INFO   ] Thread dealer found empty slot 1
+[19:22:06.014] [SEVERE ] placing card 60 in slot 1
+[19:22:06.015] [INFO   ] Thread dealer found empty slot 2
+[19:22:06.116] [SEVERE ] placing card 53 in slot 2
+[19:22:06.117] [INFO   ] Thread dealer found empty slot 3
+[19:22:06.218] [SEVERE ] placing card 11 in slot 3
+[19:22:06.219] [INFO   ] Thread dealer found empty slot 4
+[19:22:06.321] [SEVERE ] placing card 9 in slot 4
+[19:22:06.322] [INFO   ] Thread dealer found empty slot 5
+[19:22:06.423] [SEVERE ] placing card 33 in slot 5
+[19:22:06.424] [INFO   ] Thread dealer found empty slot 6
+[19:22:06.525] [SEVERE ] placing card 18 in slot 6
+[19:22:06.527] [INFO   ] Thread dealer found empty slot 7
+[19:22:06.628] [SEVERE ] placing card 45 in slot 7
+[19:22:06.629] [INFO   ] Thread dealer found empty slot 8
+[19:22:06.730] [SEVERE ] placing card 13 in slot 8
+[19:22:06.731] [INFO   ] Thread dealer found empty slot 9
+[19:22:06.731] [INFO   ] Thread dealer found empty slot 9
+[19:22:06.832] [SEVERE ] placing card 1 in slot 9
+[19:22:06.833] [INFO   ] Thread dealer found empty slot 10
+[19:22:06.935] [SEVERE ] placing card 56 in slot 10
+[19:22:06.936] [INFO   ] Thread dealer found empty slot 11
+[19:22:07.037] [SEVERE ] placing card 55 in slot 11
+[19:22:07.138] [SEVERE ] updating countdown to 15900
+[19:22:07.239] [SEVERE ] updating countdown to 15799
+[19:22:07.340] [SEVERE ] updating countdown to 15698
+[19:22:07.441] [SEVERE ] updating countdown to 15597
+[19:22:07.542] [SEVERE ] updating countdown to 15496
+[19:22:07.642] [SEVERE ] updating countdown to 15396
+[19:22:07.744] [SEVERE ] updating countdown to 15294
+[19:22:07.815] [INFO   ] tread computer-0 set added
+[19:22:07.816] [INFO   ] num of sets to check 1
+[19:22:07.823] [INFO   ] tread computer-1 set added
+[19:22:07.824] [INFO   ] num of sets to check 2
+[19:22:07.845] [SEVERE ] updating countdown to 15193
+[19:22:07.846] [INFO   ] Thread dealer checking set.
+[19:22:07.847] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:22:07.847] [INFO   ] Thread dealer change state to -1
+[19:22:07.848] [INFO   ] Thread dealer change setCheck to 1
+[19:22:07.849] [INFO   ] Thread dealer checking set.
+[19:22:07.849] [SEVERE ] setting player 1 freeze to 500
+[19:22:07.850] [INFO   ] Thread dealer say : this is not set!!!!!.
+[19:22:07.851] [INFO   ] Thread dealer change state to -1
+[19:22:07.852] [INFO   ] Thread dealer change setCheck to 1
+[19:22:07.853] [SEVERE ] setting player 2 freeze to 500
+[19:22:07.953] [SEVERE ] updating countdown to 15085
+[19:22:08.054] [SEVERE ] updating countdown to 14984
+[19:22:08.155] [SEVERE ] updating countdown to 14883
+[19:22:08.256] [SEVERE ] updating countdown to 14782
+[19:22:08.351] [SEVERE ] removing player 1 token from slot 10
+[19:22:08.352] [SEVERE ] removing player 1 token from slot 7
+[19:22:08.353] [SEVERE ] removing player 1 token from slot 2
+[19:22:08.354] [SEVERE ] setting player 1 freeze to 0
+[19:22:08.354] [SEVERE ] removing player 2 token from slot 2
+[19:22:08.355] [SEVERE ] removing player 2 token from slot 8
+[19:22:08.356] [SEVERE ] removing player 2 token from slot 9
+[19:22:08.356] [SEVERE ] setting player 2 freeze to 0
+[19:22:08.356] [SEVERE ] updating countdown to 14682
+[19:22:08.457] [SEVERE ] updating countdown to 14581
+[19:22:08.558] [SEVERE ] updating countdown to 14480
+[19:22:08.658] [SEVERE ] updating countdown to 14380
+[19:22:08.758] [SEVERE ] updating countdown to 14280
+[19:22:08.859] [SEVERE ] updating countdown to 14179
+[19:22:08.959] [SEVERE ] updating countdown to 14079
+[19:22:09.059] [SEVERE ] updating countdown to 13979
+[19:22:09.160] [SEVERE ] updating countdown to 13878
+[19:22:09.260] [SEVERE ] updating countdown to 13778
+[19:22:09.360] [SEVERE ] updating countdown to 13678
+[19:22:09.460] [SEVERE ] updating countdown to 13578
+[19:22:09.561] [SEVERE ] updating countdown to 13477
+[19:22:09.661] [SEVERE ] updating countdown to 13377
+[19:22:09.761] [SEVERE ] updating countdown to 13277
+[19:22:09.861] [SEVERE ] updating countdown to 13177
+[19:22:09.962] [SEVERE ] updating countdown to 13076
+[19:22:10.062] [SEVERE ] updating countdown to 12976
+[19:22:10.162] [SEVERE ] updating countdown to 12876
+[19:22:10.262] [SEVERE ] updating countdown to 12776
+[19:22:10.363] [SEVERE ] updating countdown to 12675
+[19:22:10.463] [SEVERE ] updating countdown to 12575
+[19:22:10.563] [SEVERE ] updating countdown to 12475
+[19:22:10.664] [SEVERE ] updating countdown to 12374
+[19:22:10.764] [SEVERE ] updating countdown to 12274
+[19:22:10.864] [SEVERE ] updating countdown to 12174
+[19:22:10.965] [SEVERE ] updating countdown to 12073
